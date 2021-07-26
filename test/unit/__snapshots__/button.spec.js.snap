@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MemoList button 요소는 스냅샷과 일치해야 한다. 1`] = `<button />`;
+
+exports[`button 컴포넌트 button 요소는 스냅샷과 일치해야 한다. 1`] = `<button />`;

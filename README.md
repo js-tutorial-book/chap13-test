@@ -29,3 +29,7 @@ npm run e2e-test
 ```sh
 npm run percy
 ```
+
+* env 파일 설정은 아래 링크를 참고해주세요.
+    * dot-env: https://www.npmjs.com/package/dot-env
+    * cross-env: https://www.npmjs.com/package/cross-env
